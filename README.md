@@ -1,0 +1,1 @@
+This repository contains a collection of machine learning–related algorithms and concepts, implemented with clarity and simplicity for educational and practical use. It includes examples ranging from basic logic gate simulations to foundational classification techniques
